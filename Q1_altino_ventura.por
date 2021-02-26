@@ -1,15 +1,15 @@
 programa {
 	funcao inicio() 
 	{
-	
-	inteiro numero
-	
-	escreva ("Digite um n�mero: ")
-	leia (numero)
-	
-	se (numero > 10) {
-	    escreva ("-  MAIOR  -")
-	}
+		//aplicar a identação para facilitar a leitura
+		inteiro numero
+
+		escreva ("Digite um número: ")
+		leia (numero)
+
+		se (numero > 10) {
+		    escreva ("-  MAIOR  -")
+		}
 	
 	}
 }
